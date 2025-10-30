@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Short - Arsenal 25/26 (Away)",
+    "sku": "SVP-2526ARS141556",
+    "price": 89.9,
+    "sizes": ["S", "M", "L", "XL"],
+    "img": "images/SVP-2526ARS141556_1.jpg",
+    "images": [
+      "images/SVP-2526ARS141556_1.jpg",
+      "images/SVP-2526ARS141556_2.jpg",
+      "images/SVP-2526ARS141556_3.jpg",
+      "images/SVP-2526ARS141556_4.jpg"
+    ],
+    "category": "Shorts Versión Player"
+  },
+  {
+    "id": 2,
+    "name": "Short - Real Madrid 25/26 (Away)",
+    "sku": "SVP-2526RM141558",
+    "price": 89.9,
+    "sizes": ["S", "M", "L"],
+    "img": "images/SVP-2526RM141558_1.jpg",
+    "images": [
+      "images/SVP-2526RM141558_1.jpg",
+      "images/SVP-2526RM141558_2.jpg",
+      "images/SVP-2526RM141558_3.jpg",
+      "images/SVP-2526RM141558_4.jpg"
+    ],
+    "category": "Shorts Versión Player"
+  },
+  {
+    "id": 3,
+    "name": "Short - Manchester United",
+    "sku": "SVP-2526RM141558",
+    "price": 89.9,
+    "sizes": ["S", "M", "L"],
+    "img": "images/SVP-2526MU141560_1.jpg",
+    "images": [
+      "images/SVP-2526MU141560_1.jpg",
+      "images/SVP-2526MU141560_2.jpg",
+      "images/SVP-2526MU141560_3.jpg",
+      "images/SVP-2526MU141560_4.jpg"
+    ],
+    "category": "Shorts Versión Player"
+  },
+   {
+    "id": 4,
+    "name": "Short - Barcelona 25/26 (Home)",
+    "sku": "SVP-2526FBC141559",
+    "price": 89.9,
+    "sizes": ["S", "M", "L"],
+    "img": "images/SVP-2526FBC141559_1.jpg",
+    "images": [
+      "images/SVP-2526FBC141559_1.jpg",
+      "images/SVP-2526FBC141559_2.jpg",
+      "images/SVP-2526FBC141559_3.jpg",
+      "images/SVP-2526FBC141559_4.jpg"
+    ],
+    "category": "Shorts Versión Player"
+  }
+]
