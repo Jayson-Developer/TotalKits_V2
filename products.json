@@ -1,8 +1,38 @@
 [
 
   {
+    "id": 7,
+    "name": "Jersey - Oasis Negro",
+    "sku": "JER-2526OAS141578",
+    "price": 85.0,
+    "sizes": ["S", "M", "L", "XL","2XL" ],
+    "img": "images/YVP_2526OAS141830_1.png",
+    "images": [
+      "images/YVP_2526OAS141832_1.png",
+      "images/YVP_2526OAS141832_2.png"
+     
+    ],
+    "category": "Jersey Edicion Especial"
+  },
+
+    {
+    "id": 6,
+    "name": "Jersey - Oasis Azul",
+    "sku": "JER-2526OAS141578",
+    "price": 85.0,
+    "sizes": ["S", "M", "L", "XL","2XL" ],
+    "img": "images/YVP_2526OAS141830_1.png",
+    "images": [
+      "images/YVP_2526OAS141831_1.png",
+      "images/YVP_2526OAS141831_2.png"
+     
+    ],
+    "category": "Jersey Edicion Especial"
+  },
+
+  {
     "id": 5,
-    "name": "Jersey - Oasis 25° Aniversario - Negro",
+    "name": "Jersey - Oasis Blanco",
     "sku": "JER-2526OAS141578",
     "price": 85.0,
     "sizes": ["S", "M", "L", "XL","2XL" ],
