@@ -18,7 +18,7 @@
     {
     "id": 6,
     "name": "Jersey - Oasis Azul",
-    "sku": "JER-2526OAS141578",
+    "sku": "JER-2526OAS141579",
     "price": 85.0,
     "sizes": ["S", "M", "L", "XL","2XL" ],
     "img": "images/YVP_2526OAS141830_1.png",
@@ -33,7 +33,7 @@
   {
     "id": 5,
     "name": "Jersey - Oasis Blanco",
-    "sku": "JER-2526OAS141578",
+    "sku": "JER-2526OAS141580",
     "price": 85.0,
     "sizes": ["S", "M", "L", "XL","2XL" ],
     "img": "images/YVP_2526OAS141830_1.png",
