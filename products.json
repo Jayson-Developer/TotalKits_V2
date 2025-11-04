@@ -1,4 +1,22 @@
 [
+   {
+    "id": 8,
+    "name": "Segunda Equipación Real Madrid 25/26",
+    "sku": "JER-2526RM2",
+    "price": 95.0,
+    "sizes": ["S", "M", "L", "XL","2XL" ],
+    "img": "images/RealMadrid_Away1.jpg",
+    "images": [
+      "images/RealMadrid_Away1.jpg",
+      "images/RealMadrid_Away2.jpg",
+	    "images/RealMadrid_Away3.jpg",
+	    "images/RealMadrid_Away4.jpg",
+	    "images/RealMadrid_Away5.jpg"
+	  
+    ],
+    "category": "Jersey's Temporada 25/26"
+  },
+  
   {
     "id": 7,
     "name": "Jersey - Oasis Negro",
