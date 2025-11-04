@@ -19,8 +19,8 @@
   
     {
     "id": 10,
-    "name": "Primera Equipación Manchester United 25/26",
-    "sku": "JER-2526BM1",
+    "name": "Primera Equipación Man United 25/26",
+    "sku": "JER-2526MU1",
     "price": 95.0,
     "sizes": ["S", "M", "L", "XL","2XL" ],
     "img": "images/26ManchesterUnited1.jpg",
