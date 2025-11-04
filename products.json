@@ -1,4 +1,48 @@
 [
+  {
+    "id": 7,
+    "name": "Jersey - Oasis Negro",
+    "sku": "JER-2526OAS141581",
+    "price": 85.0,
+    "sizes": ["S", "M", "L", "XL","2XL" ],
+    "img": "images/OasisxAdidasNegra1.png",
+    "images": [
+      "images/OasisxAdidasNegra1.png",
+      "images/OasisxAdidasNegra2.png"
+     
+    ],
+    "category": "Jersey Edicion Especial"
+  },
+
+    {
+    "id": 6,
+    "name": "Jersey - Oasis Celeste",
+    "sku": "JER-2526OAS141579",
+    "price": 85.0,
+    "sizes": ["S", "M", "L", "XL","2XL" ],
+    "img": "images/OasisxAdidasCeleste1.png",
+    "images": [
+      "images/OasisxAdidasCeleste1.png",
+      "images/OasisxAdidasCeleste2.png"
+     
+    ],
+    "category": "Jersey Edicion Especial"
+  },
+
+  {
+    "id": 5,
+    "name": "Jersey - Oasis Blanco",
+    "sku": "JER-2526OAS141580",
+    "price": 85.0,
+    "sizes": ["S", "M", "L", "XL","2XL" ],
+    "img": "images/OasisxAdidasBlanca1.png",
+    "images": [
+      "images/OasisxAdidasBlanca1.png",
+      "images/OasisxAdidasBlanca2.png"
+     
+    ],
+    "category": "Jersey Edicion Especial"
+  },
 
   {
     "id": 1,
