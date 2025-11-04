@@ -16,7 +16,7 @@ async function loadProduct() {
   }
 
   // Texto del mensaje para WhatsApp
-  const mensaje = `Hola 👋, quiero reservar esta camiseta #TotalKits:
+  const mensaje = `Hola , quiero reservar esta camiseta:
 ${p.name} (${p.sku})
 Precio: S/ ${p.price}
 Talla: [indicar talla disponible]`;
@@ -59,3 +59,4 @@ function changeImage(src) {
 
 // Ejecutar al cargar la página
 loadProduct();
+
