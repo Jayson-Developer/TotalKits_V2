@@ -5,7 +5,7 @@
     "sku": "TER-2526BM5",
     "price": 95.0,
     "sizes": ["S", "M", "L", "XL","2XL" ],
-    "img": "images/RMadrid_T1.jpg,
+    "img": "images/RMadrid_T1.jpg",
     "images": [
       "images/RMadrid_T1.jpg",
       "images/RMadrid_T2.jpg"
@@ -20,7 +20,7 @@
     "sku": "TER-2526BM5",
     "price": 95.0,
     "sizes": ["S", "M", "L", "XL","2XL" ],
-    "img": "images/Liverpool_T1.jpg,
+    "img": "images/Liverpool_T1.jpg",
     "images": [
       "images/Liverpool_T1.jpg",
       "images/Liverpool_T2.jpg"
