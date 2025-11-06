@@ -1,4 +1,48 @@
 [
+	{
+    "id": 16,
+    "name": "Real Madrid - Azul",
+    "sku": "TER-2526BM5",
+    "price": 95.0,
+    "sizes": ["S", "M", "L", "XL","2XL" ],
+    "img": "images/RMadrid_T1.jpg,
+    "images": [
+      "images/RMadrid_T1.jpg",
+      "images/RMadrid_T2.jpg"
+	  
+    ],
+    "category": "Terrace Icons"
+  },
+
+	{
+    "id": 15,
+    "name": "Liverpool Football Club",
+    "sku": "TER-2526BM5",
+    "price": 95.0,
+    "sizes": ["S", "M", "L", "XL","2XL" ],
+    "img": "images/Liverpool_T1.jpg,
+    "images": [
+      "images/Liverpool_T1.jpg",
+      "images/Liverpool_T2.jpg"
+	  
+    ],
+    "category": "Terrace Icons"
+  },
+	{
+    "id": 14,
+    "name": "Ajax de Ámsterdam",
+    "sku": "TER-2526BM4",
+    "price": 95.0,
+    "sizes": ["S", "M", "L", "XL","2XL" ],
+    "img": "images/AJAX_T1.jpg",
+    "images": [
+      "images/AJAX_T1.jpg",
+      "images/AJAX_T2.jpg"
+	  
+    ],
+    "category": "Terrace Icons"
+  },
+	
 		{
     "id": 13,
     "name": " Real Madrid",
