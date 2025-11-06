@@ -1,4 +1,48 @@
 [
+		{
+    "id": 13,
+    "name": " Real Madrid",
+    "sku": "TER-2526BM1",
+    "price": 95.0,
+    "sizes": ["S", "M", "L", "XL","2XL" ],
+    "img": "images/RM_T1.jpg",
+    "images": [
+      "images/RM_T1.jpg",
+      "images/RM_T2.jpg"
+	  
+    ],
+    "category": "Terrace Icons"
+  },
+
+		{
+    "id": 12,
+    "name": " FC Chelsea",
+    "sku": "TER-2526BM2",
+    "price": 95.0,
+    "sizes": ["S", "M", "L", "XL","2XL" ],
+    "img": "images/CH_T1.jpg",
+    "images": [
+      "images/CH_T1.jpg",
+      "images/CH_T2.jpg"
+	  
+    ],
+    "category": "Terrace Icons"
+  },
+
+	{
+    "id": 11,
+    "name": "Boca Juniors",
+    "sku": "TER-2526BM3",
+    "price": 95.0,
+    "sizes": ["S", "M", "L", "XL","2XL" ],
+    "img": "images/BJ_T1.jpg",
+    "images": [
+      "images/BJ_T1.jpg",
+      "images/BJ_T2.jpg"
+	  
+    ],
+    "category": "Terrace Icons"
+  },
  {
     "id": 9,
     "name": "Primera Equipación FC Bayern 25/26",
