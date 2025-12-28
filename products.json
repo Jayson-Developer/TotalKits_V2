@@ -3,7 +3,7 @@
     "id": 16,
     "name": "Real Madrid - Azul",
     "sku": "TER-2526BM5",
-    "price": 95.0,
+    "price": 85.0,
     "sizes": ["S", "M", "L", "XL","2XL" ],
     "img": "images/RMadrid_T1.jpg",
     "images": [
@@ -18,7 +18,7 @@
     "id": 15,
     "name": "Liverpool Football Club",
     "sku": "TER-2526BM5",
-    "price": 95.0,
+    "price": 85.0,
     "sizes": ["S", "M", "L", "XL","2XL" ],
     "img": "images/Liverpool_T1.jpg",
     "images": [
@@ -32,7 +32,7 @@
     "id": 14,
     "name": "Ajax de Ámsterdam",
     "sku": "TER-2526BM4",
-    "price": 95.0,
+    "price": 85.0,
     "sizes": ["S", "M", "L", "XL","2XL" ],
     "img": "images/AJAX_T1.jpg",
     "images": [
@@ -47,7 +47,7 @@
     "id": 13,
     "name": " Real Madrid",
     "sku": "TER-2526BM1",
-    "price": 95.0,
+    "price": 85.0,
     "sizes": ["S", "M", "L", "XL","2XL" ],
     "img": "images/RM_T1.jpg",
     "images": [
@@ -62,7 +62,7 @@
     "id": 12,
     "name": " FC Chelsea",
     "sku": "TER-2526BM2",
-    "price": 95.0,
+    "price": 85.0,
     "sizes": ["S", "M", "L", "XL","2XL" ],
     "img": "images/CH_T1.jpg",
     "images": [
@@ -77,7 +77,7 @@
     "id": 11,
     "name": "Boca Juniors",
     "sku": "TER-2526BM3",
-    "price": 95.0,
+    "price": 85.0,
     "sizes": ["S", "M", "L", "XL","2XL" ],
     "img": "images/BJ_T1.jpg",
     "images": [
